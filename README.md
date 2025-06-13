@@ -2,4 +2,4 @@
 
 This is my first Repository
 <br>
-Author - Rishi Singh
+Author - <b>Rishi Singh<b>
